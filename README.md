@@ -4,7 +4,7 @@
 
 ## 🎥 Demo Video
 
-https://github.com/Xmen3em/AI-powered-HIS-Customer-Service/assets/demo.mp4
+![](ScreenRecording2025-02-09182539online-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
 
 
 ## 📌 Features
