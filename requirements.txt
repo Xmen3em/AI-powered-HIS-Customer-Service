@@ -1,0 +1,13 @@
+sqlalchemy
+pandas 
+langchain 
+langchain-community
+langchain-groq
+faiss-cpu
+fastapi 
+uvicorn
+streamlit
+openpyxl
+sentence-transformers
+httpx
+flask
